@@ -1,4 +1,4 @@
-# 100 Days CSharp (C#)
+﻿# 100 Days CSharp (C#)
 Learning C# for the next 100 Days.
 
 **Main Target:** _Ultimate goal is to be a superhuman in C#_
@@ -17,3 +17,8 @@ Learning C# for the next 100 Days.
 
 #### Links:
 - My personal link [100DaysCSharp](https://github.com/en1tan/100DaysCSharp)
+----
+#### Reference
+- coachedebi's [100daysofcsharp](https://github.com/coachadebi/100daysofcodingCsharp)
+
+###### Made with 💖 by [x1k](https://strae.dev)
