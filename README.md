@@ -9,3 +9,11 @@ Learning C# for the next 100 Days.
 |----------|--------|
 |4th January, 2021|14th April, 2021|
 |Monday|Wednesday|
+
+## Log
+**31st December, 2020**
+#### Created Repository and made first commit
+- A few notes about today's achievement
+
+#### Links:
+- Mosh Hamedani's [Google]("https://google.com")
