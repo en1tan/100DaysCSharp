@@ -16,4 +16,4 @@ Learning C# for the next 100 Days.
 - A few notes about today's achievement
 
 #### Links:
-- Mosh Hamedani's [Google](https://google.com)
+- My personal link [100DaysCSharp](https://github.com/en1tan/100DaysCSharp)
